@@ -3,7 +3,8 @@
   <a href="https://www.linkedin.com/in/sanjay-kumar-konakandla/" target = "_blank">Sanjay Kumar Konakandla</a>
 </h1>
 <div align="center">
-<img src="https://camo.githubusercontent.com/ec310b2a31450dd27eb272341ece3eb09010c9b19dff7ae8cf459ec247067310/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d303335374637266c696e65733d46756c6c2b537461636b2b446576656c6f7065722b25334129" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=0357F7&amp;lines=Full+Stack+Developer+%3A)" align="center" style="max-width: 100%;">
+
+<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=18F2F7&center=true&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer+%3A);%F0%9F%8C%A5%EF%B8%8F+Cloud+Enthusiast.;%F0%9F%9A%80+Digital+Electronics+design." align="center" style="max-width: 100%;">
 </div>
 
 
