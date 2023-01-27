@@ -3,8 +3,9 @@
   <a href="https://www.linkedin.com/in/sanjay-kumar-konakandla/" target = "_blank">Sanjay Kumar Konakandla</a>
 </h1>
 <div align="center">
-
-<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=500&color=18F2F7&center=true&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer+%3A);%F0%9F%8C%A5%EF%B8%8F+Cloud+Enthusiast.;%F0%9F%9A%80+Digital+Electronics+design." align="center" style="max-width: 100%;">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=4000&pause=500&width=435&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Full+Stack+Web+Developer+%3A);%E2%9B%85+AWS+Certified+Cloud+Practitioner.;%F0%9F%A4%9D+MERN+Stack+Developer.;%F0%9F%9A%80+Digital+Electronics+Designer.;%F0%9F%A4%96+Robotics+and+Industrial+Automation." alt="Typing SVG" />
+  
 </div>
 
 
