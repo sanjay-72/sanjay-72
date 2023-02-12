@@ -31,7 +31,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="60" height="60">
   </a>
   <a href="https://t.me/SanjayKumarKonakandla" target = "_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="60" height="60">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.png" width="60" height="60">
   </a>
   <a href="https://sanjaykumarkonkandla12106366.on.drv.tw/www.sanjaykumar.com/" target = "_blank">
     <img src="https://img.favpng.com/20/13/6/computer-icons-business-cards-clip-art-png-favpng-NvzEjvSrMX14L673HEb3qbL0v.jpg" width="60" height="60">
